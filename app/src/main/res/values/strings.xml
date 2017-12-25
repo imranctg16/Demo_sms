@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo_sms</string>
+    <string name="button_text">Send SMS to 21213 </string>
+</resources>
